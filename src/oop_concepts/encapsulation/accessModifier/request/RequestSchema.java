@@ -1,6 +1,6 @@
-package accessModifier.request;
+package oop_concepts.encapsulation.accessModifier.request;
 
-import accessModifier.request.handler.RequestHandler;
+import oop_concepts.encapsulation.accessModifier.request.handler.RequestHandler;
 
 public class RequestSchema {
     private RequestHandler handler;

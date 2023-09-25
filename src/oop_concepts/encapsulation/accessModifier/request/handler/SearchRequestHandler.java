@@ -1,4 +1,4 @@
-package accessModifier.request.handler;
+package oop_concepts.encapsulation.accessModifier.request.handler;
 
 public class SearchRequestHandler extends RequestHandler {
     @Override

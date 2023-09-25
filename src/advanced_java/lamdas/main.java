@@ -1,4 +1,4 @@
-package lamdas;
+package advanced_java.lamdas;
 
 public class main {
     public static void main(String[] args) {

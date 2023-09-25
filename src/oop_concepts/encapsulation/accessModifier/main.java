@@ -1,12 +1,13 @@
-package accessModifier;
+package oop_concepts.encapsulation.accessModifier;
 
-import accessModifier.request.RequestSchema;
+import oop_concepts.encapsulation.accessModifier.request.RequestSchema;
 
+/**
+ *
+ */
 public class main {
     public static void main(String[] args) {
         RequestSchema schema = new RequestSchema();
         System.out.println(schema.getHandler());
-
-        System.out.println(schema.getHandler().handle());
     }
 }
